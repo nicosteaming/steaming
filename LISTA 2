@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",LODRINATV
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w104374180.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",SBT
+htthttps://cdn.jmvstream.com/w/LVW-9404/LVW9404_mgySsWAQLh/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES", 
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",FILMES
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",,SERIES
+https://stmv4.srvstm.com/tvserie/tvserie/chunklist_w159488471.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",FILMES ANTIGOS
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w101285447.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",FILMES 2
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/chunklist_w95625678.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dujMg4rd8a4/XriKbnJOt3I/AAAAAAAACvo/1olo3x6Iydga8wrQmsXUm8NW6-NkVp9eACLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-05-10%2B20.09.46.png" group-title="TV FILMES",RWCC
+https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1942363805.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w2022940766.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",TV J.SID
+https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES",TVJA
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1037623838.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",TV RECON SAT KIDS
+https://stmv1.srvif.com/reconsatkids/reconsatkids/chunklist_w982355368.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",TV SERRA VERDE
+https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w285885579.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",TV PONTA DA SERRA
+http://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/chunklist_w165715375.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",LATINA SAT
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1034671958.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",TV MANCHETE
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1052004904.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV DESENHOS",RETRÔ CARTOON
+	
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1061458051.m3u8
+
+
+
+
